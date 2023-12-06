@@ -1,2 +1,2 @@
 # Quoter
-Small, fun quotes generator
+Small, but hopefully fun [quote generator](https://irfandaily.neocities.org/quoter).
