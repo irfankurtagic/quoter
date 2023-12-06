@@ -1,1 +1,2 @@
-# quoter
+# Quoter
+Small, fun quotes generator
