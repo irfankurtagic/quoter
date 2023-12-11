@@ -1,6 +1,6 @@
 # Quoter
 
-Small, but hopefully fun [quote generator](https://irfandaily.neocities.org/quoter).
+Small, but hopefully fun [quote generator](https://byc0jl3.neocities.org/quoter).
 
 ## Theme
 A user indicates their preference through an operating system setting (e.g. light or dark mode) or a user agent setting. More about [prefers-color-scheme](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme).
