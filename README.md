@@ -1,6 +1,6 @@
 # Quoter
 
-A small, simple, and hopefully fun quote generator.
+A curated collection of funny, philosophical, sarcastic and occasionally questionable quotes 😳
 
 ##  Live Demo
 
