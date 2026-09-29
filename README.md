@@ -8,7 +8,9 @@ No frameworks, no dependencies, no complicated setup — just **HTML, CSS, vanil
 
 **[Try Quoter](https://irfankurtagic.github.io/quoter/)**
 
-## 📸 Theme
+## 🌙 Theme
+
+The website automatically follows the user's system preference for light or dark mode using CSS `prefers-color-scheme`.
 
 Dark             |  Light
 :-------------------------:|:-------------------------:
