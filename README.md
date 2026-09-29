@@ -18,7 +18,6 @@ Dark             |  Light
 
 ##  Features
 
-*  Randomized quote selection
 *  Quotes are shuffled so they don't repeat until the collection is exhausted
 *  Automatic light/dark mode support
 *  Responsive design
@@ -26,15 +25,8 @@ Dark             |  Light
 *  No frameworks or external dependencies
 *  Quotes stored separately in a simple JSON file
 
-## Built With
 
-* **HTML5**
-* **CSS3**
-* **JavaScript (ES6+)**
-* **JSON**
-
-
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 quoter/
