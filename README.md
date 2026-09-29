@@ -4,11 +4,11 @@ A small, simple, and hopefully fun quote generator.
 
 No frameworks, no dependencies, no complicated setup — just **HTML, CSS, vanilla JavaScript, and a JSON file full of quotes**.
 
-## 🔗 Live Demo
+##  Live Demo
 
 **[Try Quoter](https://irfankurtagic.github.io/quoter/)**
 
-## 🌙 Theme
+##  Theme
 
 The website automatically follows the user's system preference for light or dark mode using CSS `prefers-color-scheme`.
 
@@ -16,17 +16,17 @@ Dark             |  Light
 :-------------------------:|:-------------------------:
 ![image](https://github.com/irfankurtagic/quoter/assets/72319855/f41af05a-11c1-44bc-af83-daab6c97839b)  |  ![image](https://github.com/irfankurtagic/quoter/assets/72319855/ad906816-f2b1-4c48-9a3e-ee09b5a6211e)
 
-## ✨ Features
+##  Features
 
-* 🎲 Randomized quote selection
-* 🔄 Quotes are shuffled so they don't repeat until the collection is exhausted
-* 🌙 Automatic light/dark mode support
-* 📱 Responsive design
-* 📖 Semantic HTML
-* ⚡ No frameworks or external dependencies
-* 📦 Quotes stored separately in a simple JSON file
+*  Randomized quote selection
+*  Quotes are shuffled so they don't repeat until the collection is exhausted
+*  Automatic light/dark mode support
+*  Responsive design
+*  Semantic HTML
+*  No frameworks or external dependencies
+*  Quotes stored separately in a simple JSON file
 
-## 🛠️ Built With
+## Built With
 
 * **HTML5**
 * **CSS3**
@@ -46,7 +46,7 @@ quoter/
 └── README.md      # Project documentation
 ```
 
-## 🚀 Running Locally
+##  Running Locally
 
 No build tools or package installation are required.
 
@@ -59,12 +59,12 @@ cd quoter
 
 You can also serve it with any simple local web server if preferred.
 
-## 💭 About
+##  About
 
 This started as a small experiment and a fun way to collect and display quotes I like.
 
 The goal isn't to build the world's most sophisticated quote application — just to keep things **simple, lightweight, and enjoyable**.
 
-## 📜 License
+##  License
 
 This project is licensed under the [GNU General Public License v2.0](LICENSE).
