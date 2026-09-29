@@ -1,6 +1,6 @@
 # Quoter
 
-A small, simple, and hopefully fun quote generator with just **HTML, CSS, vanilla JavaScript, and a JSON file full of quotes**.
+A small, simple, and hopefully fun quote generator.
 
 ##  Live Demo
 
