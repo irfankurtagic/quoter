@@ -6,7 +6,7 @@ No frameworks, no dependencies, no complicated setup — just **HTML, CSS, vanil
 
 ## 🔗 Live Demo
 
-**Try [Quoter](https://irfankurtagic.github.io/quoter/)**
+**Try the [Quoter](https://irfankurtagic.github.io/quoter/).**
 
 ## 📸 Theme
 A user indicates their preference through an operating system setting (e.g. light or dark mode) or a user agent setting. More about [prefers-color-scheme](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme).
